@@ -1,7 +1,7 @@
 #--------------Factor Analysis and Regression - Hair dataset------------------------
 
 #Setting up working directory
-setwd("C:/Users/mchoudhu/Documents/PGP-BABI")
+setwd("C:/Users/mchoudhu/Documents/*******")
 getwd()
 
 #Importing required Hair dataset
